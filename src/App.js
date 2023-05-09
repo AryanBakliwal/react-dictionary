@@ -61,7 +61,8 @@ function App() {
         <h1 className="heading">Dictionary</h1>
 
         <div className="search">
-          <input id="search-bar" type="text" placeholder="Search..." value={transcript}/>
+          <input id="search-bar" type="text" placeholder="Speak to search..." value={transcript}/>
+          
           <button id="mic-btn" onClick={SpeechRecognition.startListening}>
             <MicIcon />
           </button> 
