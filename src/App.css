@@ -44,6 +44,14 @@
   background-color: #fff;
   cursor: pointer;
 }
+#stop-btn {
+  position: relative;
+  z-index: 1;
+  left: -120px;
+  border: 0;
+  background-color: #fff;
+  cursor: pointer;
+}
 #search-btn {
   font-size: 22px;
   display: flex;
