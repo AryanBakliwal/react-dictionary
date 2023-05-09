@@ -95,7 +95,7 @@ function App() {
         </div>
 
         <div className="footer">
-          <p id="foot-p">&#169; Aryan Bakliwal</p>
+          <p id="foot-p">&#169; <a href="https://www.linkedin.com/in/aryan-bakliwal-a6189123b/">Aryan Bakliwal</a></p>
         </div>
       </div>
     </>
