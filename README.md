@@ -9,7 +9,7 @@ APIs used
 Dependencies
 <ol>
 <li><a href="https://webspeechrecognition.com/" target="_blank">Web Speech Recognition</a></li>
-<li><a href="ttps://axios-http.com/docs/intro" target="_blank">Axios</a></li>
+<li><a href="https://axios-http.com/docs/intro" target="_blank">Axios</a></li>
 <li><a href="https://mui.com/" target="_blank">Material UI</a></li>
 </ol>
 
